@@ -462,7 +462,9 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    color:#000 !important;
+    font-size: 42px!important;
+    margin:6px;
 }
 
 .icon-lg {
@@ -681,22 +683,47 @@ p {
     margin-top: 22px;
     color: #FFFFFF!important;
     text-transform: uppercase;
-    padding: 12px 28px;
+    padding: 20px 42px;
     font-size: 16px;
     font-weight: 700;
 }
 
+.partenaires {
+    width: 100%;
+    font-size:24px !important;
+}
+
+.partenaires p {
+    font-size:24px;
+    margin-top:42px;
+    text-align:center;
+}
 
 .partenaires ul {
-    margin-block:0;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    min-width: 100px;
+    margin:0;
+    padding:0;
     list-style-type: none;
+}
+
+.partenaires li {
+    margin:14px;
+}
+
+.partenaires a {
+    font-size:18px !important;
+    color : #FFF !important;
+    text-decoration: underline;
 }
 
 
 
 .social {
-    max-width: 400px;
-    margin: auto;
+    max-width: 450px;
+    margin:20px auto;
 }
 
 h2 {
@@ -735,7 +762,7 @@ h4 {
 }
 
 .portfolio-thumb {
-    height:380px;
+    max-height:380px;
     margin:0 auto 24px;
 }
 
