@@ -462,7 +462,7 @@ button {
 }
 
 .icon-md {
-    color:#000 !important;
+    color:rgba(49, 49, 49, 0.8) !important;
     font-size: 42px!important;
     margin:6px;
 }
@@ -691,6 +691,7 @@ p {
 .partenaires {
     width: 100%;
     font-size:24px !important;
+    text-align: center;
 }
 
 .partenaires p {
@@ -722,6 +723,8 @@ p {
 
 
 .social {
+    display: flex;
+    justify-content: space-evenly;
     max-width: 450px;
     margin:20px auto;
 }
@@ -776,11 +779,12 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(48, 48, 48, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
 .bold-link {
+    font-size:24px;
     font-weight: 900;
     text-decoration: underline!important;
 }
@@ -1062,4 +1066,9 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+
+footer {
+    padding: 20px 0;
 }
