@@ -497,6 +497,7 @@ button {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
     width:300px;
+    padding: 4px;
 }
 
 #form_1 {
