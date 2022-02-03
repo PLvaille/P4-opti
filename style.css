@@ -743,40 +743,6 @@ p {
     font-weight: 700;
 }
 
-.partenaires {
-    width: 100%;
-    font-size:24px !important;
-    text-align: center;
-}
-
-.partenaires p {
-    font-size:24px;
-    margin-top:42px;
-    text-align:center;
-}
-
-.partenaires ul {
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    min-width: 100px;
-    margin:0;
-    padding:0;
-    list-style-type: none;
-}
-
-.partenaires li {
-    margin:14px;
-}
-
-.partenaires a {
-    font-size:18px !important;
-    color : #FFF !important;
-    text-decoration: underline;
-}
-
-
-
 .social {
     display: flex;
     justify-content: space-evenly;
