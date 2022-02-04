@@ -452,8 +452,8 @@ button {
     outline: none!important;
 }
 
-button p {
-    display:none;
+button span {
+    visibility:hidden;
 }
 
 .btn-rd {
@@ -752,7 +752,7 @@ p {
     text-decoration: none !important;
 }
 .social p {
-    display:none;
+    visibility:hidden;
 }
 
 
