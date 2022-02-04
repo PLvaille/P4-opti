@@ -533,10 +533,6 @@ button {
     .form-group {
         display: block;
     }
-    #form_1 button {
-        position:relative;
-        right:20%;
-    }
     #form_1 input {
         width:90%;
         margin-bottom:6px;
@@ -828,12 +824,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000 !important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000 !important;
 }
 
 .ltc-white {
@@ -1092,4 +1088,8 @@ footer {
 .logoxl {
     border:3px solid #c27956;
     border-radius: 50%;
+}
+
+.text-center {
+    text-align: center;
 }
