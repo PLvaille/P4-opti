@@ -453,7 +453,7 @@ button {
 }
 
 button p {
-    display:hidden;
+    display:none;
 }
 
 .btn-rd {
@@ -752,7 +752,7 @@ p {
     text-decoration: none !important;
 }
 .social p {
-    display:hidden;
+    display:none;
 }
 
 
