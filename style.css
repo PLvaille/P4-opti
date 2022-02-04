@@ -415,7 +415,7 @@ nav .caret {
 }
 
 .dropdown-menu .dropdown span {
-    border: 4px solid  color:rgba(49, 49, 49, 1) !important;
+    border: 4px solid  rgba(49, 49, 49, 1) !important;
     border-top-color: transparent;
     border-right-color: transparent;
     border-bottom-color: transparent;
@@ -1086,6 +1086,10 @@ footer {
 .citation {
     width:66%;
     margin:0 auto;
+    color: rgba(48, 48, 48, 0.8);
+}
+.citation p {
+    color: rgba(48, 48, 48, 1) !important;
 }
 
 .logoxl {
