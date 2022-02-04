@@ -452,10 +452,6 @@ button {
     outline: none!important;
 }
 
-button span {
-    visibility:hidden;
-}
-
 .btn-rd {
     border-radius: 40px;
 }
@@ -751,10 +747,6 @@ p {
     margin:20px auto;
     text-decoration: none !important;
 }
-.social p {
-    visibility:hidden;
-}
-
 
 h2 {
     font-size: 22px;
