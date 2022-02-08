@@ -504,7 +504,7 @@ button {
 }
 
 #form_1 {
-    margin:0 12px;
+    margin-left:20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
